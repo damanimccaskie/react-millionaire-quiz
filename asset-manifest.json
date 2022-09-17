@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-millionaire-quiz/static/css/main.376fe435.css",
+    "main.js": "/react-millionaire-quiz/static/js/main.f9e44a3e.js",
+    "static/js/845.6f0052c4.chunk.js": "/react-millionaire-quiz/static/js/845.6f0052c4.chunk.js",
+    "static/media/bg.jpg": "/react-millionaire-quiz/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/react-millionaire-quiz/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/react-millionaire-quiz/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/react-millionaire-quiz/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/react-millionaire-quiz/index.html",
+    "main.376fe435.css.map": "/react-millionaire-quiz/static/css/main.376fe435.css.map",
+    "main.f9e44a3e.js.map": "/react-millionaire-quiz/static/js/main.f9e44a3e.js.map",
+    "845.6f0052c4.chunk.js.map": "/react-millionaire-quiz/static/js/845.6f0052c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.376fe435.css",
+    "static/js/main.f9e44a3e.js"
+  ]
+}
